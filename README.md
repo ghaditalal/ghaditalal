@@ -1,23 +1,22 @@
-# Hi, I'm Ghadi 👋
+# Hi, I'm Ghadi Alzahrani 👋
 
-Computer Science Senior at Imam Abdulrahman Bin Faisal University.
-
-## 💻 Interests
-- Software Development
-- Mobile & Web Development
-- AI & Machine Learning
-- UI/UX Design
-- Game Development
-
-## 🚀 Projects
-- ReLeaf – Smart Waste Sorting App
-- NeuraChat – AI Chat Application
-- Gesture-Controlled Web System
-- Smart Notes AI
-- Snake & Ladders Java Game
+💻 Computer Science Senior at IAU  
+🤖 Interested in AI, Software Development & UI/UX  
+🎮 Passionate about App, Web & Game Development  
 
 ## 🛠 Skills
-Java • Python • Flutter • Firebase • Node.js • Git/GitHub
+
+### Languages
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+
+### Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+
+---
 
 ## 📫 Connect With Me
-- LinkedIn: www.linkedin.com/in/ghadi-talal-aa31722aa
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/ghadi-talal-aa31722aa)
