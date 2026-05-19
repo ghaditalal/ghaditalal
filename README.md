@@ -13,7 +13,7 @@ I’m interested in artificial intelligence, mobile applications, web developmen
 
 ---
 
-## 🛠 Skills
+## Skills
 
 ### Programming Languages
 
@@ -45,7 +45,7 @@ I’m interested in artificial intelligence, mobile applications, web developmen
 
 ---
 
-## 💻 Current Interests
+## Current Interests
 
 - AI-powered applications  
 - Mobile and web development  
@@ -55,6 +55,6 @@ I’m interested in artificial intelligence, mobile applications, web developmen
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ghadi%20Alzahrani-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghadi-talal-aa31722aa)
