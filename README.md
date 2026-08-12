@@ -71,22 +71,6 @@ My interests include **Cybersecurity, Software Development, Web & Mobile Develop
 
 ---
 
-## Featured Projects
-
-### 🔐 File Integrity Monitor
-
-A security-focused project that monitors files using cryptographic hashes to detect unauthorized changes.
-
-### 🎮 2D Game Development
-
-A 2D game built with Godot, featuring quests, player interaction, dialogue, collectibles, and chapter-based gameplay.
-
-### 📱 Mobile & Web Applications
-
-Practical applications developed through academic and personal projects, focusing on functionality and user experience.
-
----
-
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ghadi%20Alzahrani-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/ghadi-alzahrani-aa31722aa)
