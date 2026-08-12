@@ -73,4 +73,4 @@ My interests include **Cybersecurity, Software Development, Web & Mobile Develop
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ghadi%20Alzahrani-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/ghadi-alzahrani-aa31722aa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ghadi%20Alzahrani-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghadi-alzahrani-aa31722aa/)
