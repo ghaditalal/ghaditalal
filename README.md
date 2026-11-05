@@ -1,7 +1,9 @@
 # Hi, I'm Ghadi Alzahrani 👋
 
 💻 Computer Science Senior at Imam Abdulrahman Bin Faisal University
+
 🔐 Interested in Cybersecurity & Software Development
+
 🎮 Passionate about Game Development, UI/UX & Creative Technology
 
 ---
