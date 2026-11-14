@@ -1,78 +1,80 @@
-# Hi, I'm Ghadi Alzahrani 👋
+# Ghadi Alzahrani
 
-💻 Computer Science Senior at Imam Abdulrahman Bin Faisal University
+Computer Science senior at **Imam Abdulrahman Bin Faisal University**, focused on **cybersecurity and SOC operations**, with a background in software, web and mobile development.
 
-🔐 Interested in Cybersecurity & Software Development
-
-🎮 Passionate about Game Development, UI/UX & Creative Technology
+I like learning by building: detection labs, security tooling, and applications that are practical and well designed.
 
 ---
 
-## About Me
+## Experience
 
-I'm a Computer Science senior who enjoys building practical, creative, and user-friendly digital solutions.
+**Cybersecurity Co-op Trainee** · Cyber Security Experts Co., Khobar · Sep – Oct 2026
+Built a *SOC Detection Engineering & Incident Handling Simulation Lab* as my co-op project.
 
-My interests include **Cybersecurity, Software Development, Web & Mobile Development, Game Development, and UI/UX Design**. I enjoy learning through hands-on projects and exploring different areas of technology.
+## Certifications
+
+- Fortinet NSE 1, NSE 2, NSE 3
+- Sophos Partner Training
+
+## Selected Work
+
+- **SOC Detection Engineering & Incident Handling Simulation Lab**: co-op project covering detection and incident response workflows
+- **SpillGuard**: oil spill detection in the Arabian Gulf using SAR imagery and deep learning (published at an IEEE conference)
 
 ---
 
 ## Skills
 
-### Programming Languages
+**Languages**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat\&logo=cplusplus\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-### Web Development
+**Cybersecurity & Networking**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat\&logo=php\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-2B2B2B?style=flat&logo=linux&logoColor=FCC624)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![HTTP](https://img.shields.io/badge/HTTP-005571?style=flat&logo=http&logoColor=white)
 
-### Cybersecurity & Networking
+**Web Development**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat\&logo=wireshark\&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-0A66C2?style=flat\&logo=cisco\&logoColor=white)
-![HTTP](https://img.shields.io/badge/HTTP-005571?style=flat\&logo=http\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2B2B2B?style=flat&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-### Development & Tools
+**Development & Tools**
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat\&logo=flutter\&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat\&logo=godotengine\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat\&logo=visualstudiocode\&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat\&logo=androidstudio\&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-2B2B2B?style=flat&logo=androidstudio&logoColor=3DDC84)
 
-### Design & Creative
+**AI & Machine Learning**
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat\&logo=figma\&logoColor=white)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-FF61F6?style=flat\&logo=figma\&logoColor=white)
-![Pixel Art](https://img.shields.io/badge/Pixel%20Art-000000?style=flat\&logo=aseprite\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-E65100?style=flat&logo=tensorflow&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-412991?style=flat&logo=googlecolab&logoColor=white)
 
-### AI & Machine Learning
+**Design**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat\&logo=tensorflow\&logoColor=white)
-![TensorFlow Lite](https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=flat\&logo=tensorflow\&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-412991?style=flat\&logo=googlecolab\&logoColor=white)
-
----
-
-## Current Interests
-
-* 🔐 Cybersecurity & Security Fundamentals
-* 💻 Software Development
-* 🌐 Web & Mobile Development
-* 🎮 Game Development
-* 🎨 UI/UX Design
-* 🐧 Linux & Networking
-* 🧩 Hands-on Security Projects
+![Figma](https://img.shields.io/badge/Figma-2B2B2B?style=flat&logo=figma&logoColor=F24E1E)
+![UI/UX](https://img.shields.io/badge/UI%2FUX-5B4FCF?style=flat&logo=figma&logoColor=white)
+![Pixel Art](https://img.shields.io/badge/Pixel%20Art-2B2B2B?style=flat&logo=aseprite&logoColor=white)
 
 ---
 
-## Connect With Me
+## Currently
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ghadi%20Alzahrani-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghadi-alzahrani-aa31722aa/)
+Building hands-on security labs, practicing threat detection and incident response, and competing in CTFs. Outside security, I still enjoy game development and UI/UX work.
+
+---
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ghadi%20Alzahrani-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghadi-alzahrani-aa31722aa/)
+
