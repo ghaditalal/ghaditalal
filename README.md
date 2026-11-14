@@ -1,25 +1,8 @@
 # Ghadi Alzahrani
 
-Computer Science senior at **Imam Abdulrahman Bin Faisal University**, focused on **cybersecurity and SOC operations**, with a background in software, web and mobile development.
+Computer Science senior at **Imam Abdulrahman Bin Faisal University**, focused on **cybersecurity and SOC operations**, with a background in AI/ML, software, web and mobile development.
 
 I like learning by building: detection labs, security tooling, and applications that are practical and well designed.
-
----
-
-## Experience
-
-**Cybersecurity Co-op Trainee** · Cyber Security Experts Co., Khobar · Sep – Oct 2026
-Built a *SOC Detection Engineering & Incident Handling Simulation Lab* as my co-op project.
-
-## Certifications
-
-- Fortinet NSE 1, NSE 2, NSE 3
-- Sophos Partner Training
-
-## Selected Work
-
-- **SOC Detection Engineering & Incident Handling Simulation Lab**: co-op project covering detection and incident response workflows
-- **SpillGuard**: oil spill detection in the Arabian Gulf using SAR imagery and deep learning (published at an IEEE conference)
 
 ---
 
